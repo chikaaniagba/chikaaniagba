@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chikaaniagba
-- 👀 I’m interested in becoming a cloud architect
-- 🌱 I’m currently learning basic cloud computing and IT fundamentals
+- 👀 I’m interested in becoming a cloud engineer
+- 🌱 I’m currently learning AI intgration and programming
 - 💞️ I’m looking to collaborate on with all levels of cloud professionals
 - 📫 How to reach me : chikaaniagba@gmail.com
 - 😄 Pronouns: she/her
